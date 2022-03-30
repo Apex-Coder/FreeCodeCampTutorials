@@ -1,7 +1,16 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Michael Nicholls",
+	"description": "This is a fun backend tutorial from Free Code Camp",
+	"keywords": [
+		"freecodecamp",
+		"backend",
+		"tutorial",
+		"fun"
+	],
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "^2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -10,6 +19,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	},
-	"author": "Michael Nicholldd"
+	}
+
 }
